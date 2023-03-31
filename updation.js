@@ -1,5 +1,4 @@
 const admin = require("firebase-admin");
-const serviceAccount = require("./gobyhomes-qa-firebase-adminsdk-3r0gx-ac944a27b6.json");
 const RETS = require("node-rets");
 const fs = require("fs");
 const feildsValues = require("./selected_feild.js");
