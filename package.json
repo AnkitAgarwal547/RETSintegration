@@ -1,0 +1,19 @@
+{
+  "name": "rets_integration",
+  "version": "1.0.0",
+  "description": "Rets Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitAgarwal547/RETSintegration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitAgarwal547/RETSintegration/issues"
+  },
+  "homepage": "https://github.com/AnkitAgarwal547/RETSintegration#readme"
+}
